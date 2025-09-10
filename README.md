@@ -1,7 +1,11 @@
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-malik-adebayo-294161174/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Maaks_00)
 
-## Hi there! 👋
+Hi there! 👋
+
+## I'm **Abdul-Malik**
+
+## 💡 AI & Backend Engineer | Machine Learning | Researcher | LLMs, RAG, AI Agents | Scalable Systems with Django, FastAPI, GCP & AWS
 I design and build scalable AI-powered applications and robust backend infrastructure. With experience in Django, FastAPI, NLP, Generative AI (LLMs, RAG), and cloud platforms like GCP and AWS, I develop solutions that drive automation, operational efficiency, and measurable impact delivered through clean, maintainable, and production-ready code.
 
 I thrive in fast-paced environments where I can architect, optimize, and deploy intelligent systems. I take ownership of the projects I lead, but I’m equally comfortable collaborating within teams to ship high-quality products and meet tight deadlines.
